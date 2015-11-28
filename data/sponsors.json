@@ -1,0 +1,242 @@
+{
+  "sponsors": {
+    "gold": [
+      {
+        "id": "booking",
+        "name": "Booking.com",
+        "description": "<p>Booking.com is part of Priceline.com (Nasdaq:PCLN) the World’s #1 Online Hotel Reservations Company attracting over 30 million unique visitors every month and offering nearly 170,000 hotels worldwide. Due to the growth of our IT department we need experts in UX, HTML, CSS, JavaScript, Ajax, jQuery, performance, and mobile! Would you like to work in an international, results driven, fun & dynamic work environment? Join us! We are based in Amsterdam, NL.</p>",
+        "links": {
+          "www": {
+            "url": "https://workingatbooking.com",
+            "label": "workingatbooking.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/Bookingcom_Jobs",
+            "label": "@Bookingcom_Jobs"
+          }
+        }
+      },
+      {
+        "id": "nvite",
+        "name": "nvite",
+        "description": "<p>nvite is a platform for planning, attending and engaging with events and we're redesigning and reimagining the event experience from the ground-up!</p>",
+        "links": {
+          "www": {
+            "url": "https://nvite.com",
+            "label": "nvite.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/nvite",
+            "label": "@nvite"
+          }
+        }
+      }
+    ],
+    "silver": [
+      {
+        "id": "typeform",
+        "name": "Typeform",
+        "description": "<p>Typeform is a cloud based application that is reinventing the way users create and respond to surveys and other types of forms, by making the process more user-friendly and engaging for both creators and end users.</p><p>Being the first device-agnostic form solution, Typeform provides creators with peace of mind that their forms will have the same great look and feel on any smartphone, tablet or web browser.</p>",
+        "links": {
+          "www": {
+            "url": "http://www.typeform.com",
+            "label": "typeform.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/typeform",
+            "label": "@typeform"
+          }
+        }
+      },
+      {
+        "id": "paypal",
+        "name": "Paypal",
+        "description": "<p>The PayPal Developer program is the face of technology innovation at PayPal. Using open source foundations in their technology stacks, PayPal is constructing new breeds of identity systems, API standards, and payment platforms to support the next generation of disruptive technology.</p>",
+        "links": {
+          "www": {
+            "url": "http://developer.paypal.com",
+            "label": "developer.paypal.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/PayPalDev",
+            "label": "@PayPalDev"
+          }
+        }
+      },
+      {
+        "id": "schibsted",
+        "name": "Schibsted",
+        "description": "<p>Schibsted Tech Polska is a technological center for innovation and software development located in Krakow at Armii Krajowej 28. We are part of bigger international media group called Schibsted Media Group. In Krakow we design and develop information services mainly for our Norwegian and Swedish partners. We work in AGILE teams and often travel to Scandinavia.</p><p>We deliver high-quality solutions based on the latest web, mobile and smart TV technologies, employing lightweight software development methodologies for our Scandinavian partners.</p><p>There are over 110 of us now. We hope to hear from you soon since there is some office space we would like to fill with the coolest frontend lovers, java geeks, .NET maniacs, mobile apps masters and PHP gurus or other passionate developers! Also, we hope to have more colleagues to play soccer table with J or swing on our hammock at the roof top terrace.</p>",
+        "links": {
+          "www": {
+            "url": "http://www.schibsted.pl/kariera/",
+            "label": "schibsted.pl/kariera"
+          }
+        }
+      },
+      {
+        "id": "it-kontrakt",
+        "name": "IT Kontrakt",
+        "description": "<p>IT Kontrakt specializes in outsourcing of IT personnel. We have many years of experience in creating IT expert teams for the most prestigious IT projects in the key sectors of economy. Thanks to the high effectiveness of operating and partner approach towards the Customers, we gained the confidence of the largest banks, financial, insurance, computer and telecommunication companies.</p><p>TELL US ABOUT YOUR EXPECTATIONS. WE WILL MEET THEM AND OFFER YOU AN INTERESTING JOB AND AN OPPORTUNITY FOR CONTINUOUS PROFESSIONAL DEVELOPMENT.<br>IT Kontrakt team consists of more than 470 IT professionals implementing IT projects throughout the country and abroad. We perform a role of Manager for our IT experts in the labour market, we offer them the best projects, and thus – we offer satisfying financial and social conditions. We put emphasis on assurance of continuous development for our associates, by organizing conferences and trainings. The company policy is the patronage over each of the specialists. A patron from IT Kontrakt introduces the new specialist to work and takes care of all formal issues connected with cooperation.</p><p>JOIN US<br>If you are interested in cooperation with IT Kontrakt, please send us your application documents to: rekrutacja@itkontrakt.pl or fill in the application form on our website.</p>",
+        "links": {
+          "www": {
+            "url": "http://www.itkontrakt.pl/",
+            "label": "itkontrakt.pl"
+          }
+        }
+      },
+      {
+        "id": "mozilla",
+        "name": "Mozilla",
+        "description": "<p>Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We work with a worldwide community to create open source products like Mozilla Firefox, and to innovate for the benefit of the individual and the betterment of the Web. The result is great products built by passionate people and better choices for everyone.</p>",
+        "links": {
+          "www": {
+            "url": "http://mozilla.com",
+            "label": "mozilla.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/mozilla",
+            "label": "@mozilla"
+          }
+        }
+      },
+      {
+        "id": "wikia",
+        "name": "Wikia",
+        "description": "<p>Create. Collaborate. Be original.</p><p>100 Million Fans Strong and ranked a Top 10 Social Network by Nielsen, Wikia operates the world’s largest network of collaboratively published games, entertainment, and lifestyle content on the web. Our knowledgeable and devoted fans create hundreds of wikias every day on a trusted and customizable platform designed to help people share what they know and love.</p><p>Currently, we maintain over 370,000 wikias across virtually all aspects of popular culture: from console and mobile games, TV, music, and movies to sports, books, fashion, and current events.</p><p>Wikia's fan base continues to fuel consistent growth with over 1.5 billion global monthly page views from 223 countries in over 100 languages. Our traffic has grown consistently, 30% year over year on the web and 347% year over year on mobile, including downloads of our mobile applications, MyWikia App and Wikia Game Guides. Over 34% of Wikia's traffic comes exclusively from mobile visits.</p><p>Wikia’s philosophy and publishing platform is designed to unleash the power of knowledge as influence, enable personal and collective creativity and distribute rich, original content.</p>",
+        "links": {
+          "www": {
+            "url": "http://wikia.com/",
+            "label": "wikia.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/Wikia",
+            "label": "@Wikia"
+          }
+        }
+      },
+      {
+        "id": "sauce-labs",
+        "name": "Sauce Labs",
+        "description": "<p>Run your web and mobile app tests across hundreds of real browsers and platforms instantly.</p><p>We think testing should be simple and easy for developers. Take a look at how our cloud platform makes mobile testing, JavaScript unit testing and Selenium testing hassle-free.</p>",
+        "links": {
+          "www": {
+            "url": "https://saucelabs.com/",
+            "label": "saucelabs.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/saucelabs",
+            "label": "@saucelabs"
+          }
+        }
+      }
+    ],
+    "supporter": [
+      {
+        "id": "axure",
+        "name": "axure",
+        "description": "<p>Axure is a wireframe software that lets you generate clickable HTML prototypes that can viewed in any web browser.  Use Axure to create lo-fi sketchy mockups or hi-fi prototypes with interactive elements like carousels, tab control, and dynamic error messages.  Axure is available for Mac and PC, with pricing from $289 to $589.</p>",
+        "links": {
+          "www": {
+            "url": "http://www.axure.com/",
+            "label": "axure.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/axurerp",
+            "label": "@axurerp"
+          }
+        }
+      },
+      {
+        "id": "balsamiq",
+        "name": "balsamiq",
+        "description": "<p>Balsamiq is the maker of Mockups, the rapid wireframing software that combines the comfort and simplicity of paper sketching with the power of a digital tool, so your work is easier to share, modify, and get honest feedback on. Mockups look like sketches, so stakeholders won't get distracted by little details, and can focus on what's important instead.</p><p>Mockups is available <a href=\"http://www.balsamiq.com/products/mockups\">for the Desktop (Windows, Mac, Linux)</a>, <a href=\"http://www.balsamiq.com/products/mockups/mybalsamiq\">as a hosted web service</a>, or as a plugin for <a href=\"https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups\">Confluence</a> &amp; <a href=\"https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups\">JIRA</a>.</p>",
+        "links": {
+          "www": {
+            "url": "http://balsamiq.com",
+            "label": "balsamiq.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/balsamiq",
+            "label": "@balsamiq"
+          }
+        }
+      },
+      {
+        "id": "informit",
+        "name": "InformIT",
+        "description": "<p>InformIT is the online presence of the family of information technology publishers and brands of <a href=\"http://www.pearsoned.com/\">Pearson</a>, the world's largest learning company. InformIT is home to the leading technology publishing imprints Addison-Wesley Professional, Cisco Press, IBM Press, Pearson IT Certification, Prentice Hall Professional, QUE, and Sams. We also offer products geared toward the professional business audience from our publishing partner FT Press. Here you will gain access to trusted and quality content and resources from the authors, creators, innovators, and leaders of technology and business. Whether you're looking for a book on a new technology, a helpful article, timely newsletters or access to the <a href=\"http://www.informit.com/about/index.aspx#safari\">Safari Books Online</a> digital library, InformIT has a solution for you.</p>",
+        "links": {
+          "www": {
+            "url": "http://www.informit.com/usergroupwelcome",
+            "label": "informit.com/usergroupwelcome"
+          },
+          "twitter": {
+            "url": "https://twitter.com/informit",
+            "label": "@informit"
+          }
+        }
+      },
+      {
+        "id": "qbaka",
+        "name": "Qbaka",
+        "description": "<p>Qbaka is frontend error monitoring and user analytics. We help web services provide best user experience by smart javascript error tracking, user events and ajax monitoring, problem impact evaluation, combined with powerful analytics engine in the cloud. With just 1 minute setup we provide instant, measurable value. Be aware of client-side problems, save time for your developers and support, give users happy error-free experience with the help of Qbaka. We've got your front(end) covered!</p>",
+        "links": {
+          "www": {
+            "url": "https://qbaka.com",
+            "label": "qbaka.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/qbaka_com",
+            "label": "@qbaka_com"
+          }
+        }
+      },
+      {
+        "id": "rosenfeld",
+        "name": "Rosenfeld Media",
+        "description": "<p>Rosenfeld Media provides deep user experience design expertise in the formats you need: 18 books, over 50 workshops, and consulting from dozens of the field's top experts.</p>",
+        "links": {
+          "www": {
+            "url": "http://rosenfeldmedia.com",
+            "label": "rosenfeldmedia.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/rosenfeldmedia",
+            "label": "@rosenfeldmedia"
+          }
+        }
+      },
+      {
+        "id": "typecast",
+        "name": "Typecast",
+        "description": "<p>Design for the reader by putting type first.</p><p>The web is 90% text, so getting your typography right matters. Typecast lets you design working prototypes using simple visual controls. Test, compare and style over 100,000 web fonts from top providers to find the perfect fit for your project. Avoid nasty surprises at build by checking for readability, rendering and beauty as you work in the browser. Cut down the back and forth with devs by handing over production-ready HTML & CSS that itemizes each of your design decisions. Share designs with clients and colleagues, and quickly test your designs across devices. Try Typecast now and start making the web a more beautiful place.</p>",
+        "links": {
+          "www": {
+            "url": "http://typecast.com",
+            "label": "typecast.com"
+          },
+          "twitter": {
+            "url": "https://twitter.com/TypecastApp",
+            "label": "@TypecastApp"
+          }
+        }
+      },
+      {
+        "id": "gazeta",
+        "name": "Gazeta.pl",
+        "description": "<p>Press.</p>",
+        "links": {
+          "www": {
+            "url": "http://gazeta.pl",
+            "label": "gazeta.pl"
+          },
+          "twitter": {
+            "url": "https://twitter.com/gazetapl_news",
+            "label": "@gazetapl_news"
+          }
+        }
+      }
+    ]
+  }
+}

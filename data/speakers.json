@@ -1,0 +1,598 @@
+{
+  "speakers": [
+    {
+      "id": "sara-vieira",
+      "name": "Sara Vieira",
+      "description": {
+        "short": "Front-end Developer.",
+        "full": "<p>Sara is a front end developer from Portugal. She’s one of those few people in the world who love what they do, wanna do it more and even work on their free time.</p><p>When she isn’t in code she’s a total TV Show addict and everything she says is a TV Show reference.</p>"
+      },
+      "talk": {
+        "title": "CSS as a programming language",
+        "description": "<p>CSS will be sooner or later it’s own preprocessor, we have amazing functionalities in CSS that allow us to go further with it than we ever did.</p><p>In this talk Sara walks you throughout these new functionalities that will make you look at CSS in a different light.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://iamsaravieira.com",
+          "label": "iamsaravieira.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/NikkitaFTW",
+          "label": "@NikkitaFTW"
+        }
+      }
+    },
+    {
+      "id": "kornel-lesinski",
+      "name": "Kornel Lesiński",
+      "description": {
+        "short": "Programmer",
+        "full": "<p>Developer at FT Labs &mdash; an emerging web technologies team at the Financial Times. Independent image compression researcher. Invited expert in W3C HTML WG and WHATWG participant.</p>"
+      },
+      "talk": {
+        "title": "Modern Image Compressors",
+        "description": "<p>Breathing new life into Web-compatible image formats.</p><p>You will learn about new image compressors and supporting tools that enable delivering images faster, with higher quality and with alpha transparency for graphically richer websites, while maintaining backwards compatibility with all current browsers and staying within limits of mobile networks.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://pornel.net",
+          "label": "pornel.net"
+        },
+        "twitter": {
+          "url": "https://twitter.com/pornelski",
+          "label": "@pornelski"
+        }
+      }
+    },
+    {
+      "id": "kyle-simpson",
+      "name": "Kyle Simpson",
+      "description": {
+        "short": "JavaScript, HTML5, web performance",
+        "full": "<p>Kyle Simpson is an Open Web Evangelist from Austin, TX. He's passionate about JavaScript, HTML5, real-time/peer-to-peer communications, and web performance. Otherwise, he's probably bored by it. Kyle is an author, workshop trainer, tech speaker, and avid OSS community member.</p>"
+      },
+      "talk": {
+        "title": "CSS: Yawn to Yay!",
+        "description": "<p>Maybe you think moving from static CSS files to (mostly-static) CSS preprocessing was a huge revolution for your app's styling. I've got news for you. You're still stuck in quicksand.</p><p>If you want more out of your CSS, it should be dynamically templated, not just build-processed. Render the CSS on-the-fly, responding to run-time conditions, either on the server or in the browser. And that's just the beginning. Imagine modifying CSS structure and rule-relationships in process, re-compiling then re-rendering? Yep.</p><p>Are you still excited because your CSS automatically re-compiles on save? CSS.past. Open your eyes to the next big things in CSS. You don't need more fancy features and coding constructs IN your CSS file, you just need super-charged CSS tools. Welcome to CSS templating.</p><p>We haven't scratched the surface of what CSS can do for us yet. It's time we get scratching.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://getify.me",
+          "label": "getify.me"
+        },
+        "twitter": {
+          "url": "https://twitter.com/getify",
+          "label": "@getify"
+        }
+      }
+    },
+    {
+      "id": "alicia-liu",
+      "name": "Alicia Liu",
+      "description": {
+        "short": "Web and mobile developer.",
+        "full": "<p>Alicia Liu is a full-stack web and mobile engineer, currently with a focus on front-end at  <a href=\"http://lift.do\">Lift</a>. She has been building web apps since IE 5.5, and honing her craft in early-stage startups since 2007. Alicia writes at <a href=\"http://alicialiu.net/writing/\">alicialiu.net/writing</a> and tweets <a href=\"https://twitter.com/aliciatweet\">@aliciatweet</a>.</p>"
+      },
+      "talk": {
+        "title": "Slaying the Dragon: Refactoring CSS for Maintainability",
+        "description": "<p>Refactoring is a practice that is often overlooked when it comes to CSS. As a result, CSS seems to just grow and grow like a hydra, until no one knows for sure which styles apply where, or whether many rules are still used at all. We’ll cover methods for refactoring CSS including code organization and naming, dealing with incremental change, and special considerations for responsive styles. Rewrites are costly and high risk, refactor instead!</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://alicialiu.net",
+          "label": "alicialiu.net"
+        },
+        "twitter": {
+          "url": "https://twitter.com/aliciatweet",
+          "label": "@aliciatweet"
+        }
+      }
+    },
+    {
+      "id": "lea-verou",
+      "name": "Lea Verou",
+      "description": {
+        "short": "CSSWG Invited Expert. O'Reilly Media author. Ex W3C staff.",
+        "full": "<p>Lea previously worked as a Developer Advocate at <a href=\"http://w3.org\">W3C</a> and currently spends her days writing &#038; designing her first book (“CSS Secrets”), published with <a href=\"http://oreilly.com/\">O’Reilly</a> in 2014. She has a long-standing passion for open web standards, which she fulfils by researching new ways to use them, <a href=\"http://lea.verou.me\">blogging</a>, <a href=\"http://lea.verou.me/speaking\">speaking</a>, <a href=\"http://lea.verou.me/writing\">writing</a>, and coding popular open source <a href=\"http://lea.verou.me/projects/\">projects</a> to help fellow developers. She is an Invited Expert in the <a href=\"http://www.w3.org/Style/CSS/members.en.php3\">CSS Working Group</a>, which architects the language itself. Although she holds a BSc in Computer Science, Lea is one of the few misfits who love code and design equally.</p>"
+      },
+      "talk": {
+        "title": "The Chroma Zone: Engineering Color on the Web",
+        "description": "<p>We use color every day, but how well do we really understand it? More often than not, we are merely scratching the surface of a large and complicated discipline. In this dynamic session, we will scratch a little deeper, and you will be surprised at how deep the colorful rabbit hole goes. How does color work on our screens? What’s the difference between color models and color spaces? Which existing features of CSS Color are we underutilizing? What’s in store for CSS Color level 4? This is not a design talk, it’s a technical talk about the inner workings of one of the most important design aspects. Whether you identify as a designer or a developer, you will walk out of this session with a newfound confidence about anything color related.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://lea.verou.me",
+          "label": "lea.verou.me"
+        },
+        "twitter": {
+          "url": "https://twitter.com/leaverou",
+          "label": "@leaverou"
+        }
+      }
+    },
+    {
+      "id": "mary-rose-cook",
+      "name": "Mary Rose Cook",
+      "description": {
+        "short": "JavaScript Programmer. Made a programming language for children called Isla.",
+        "full": "<p>Mary Rose Cook writes code, makes music, works at Hacker School and lives in New York City.  She’s made two games: Pistol Slut and Empty Black.  She’s made a micro framework for JavaScript games: Coquette. She’s made a programming language for children: Isla.  She’s spoken at JSConf, BerlinJS, BrooklynJS and EmpireJS.</p>"
+      },
+      "talk": {
+        "title": "Mary live-codes a JavaScript game from scratch",
+        "description": "<p>When I made my first game, I was scared of writing graphics code and dealing with browser quirks and player input events.  So, I used a game framework to handle that stuff for me.  Later, I discovered that stuff is not so scary.  I will live-code an action game from scratch without using any libraries.  We will cover keyboard input, graphics, collision detection and sound.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://maryrosecook.com",
+          "label": "maryrosecook.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/maryrosecook",
+          "label": "@maryrosecook"
+        }
+      }
+    },
+    {
+      "id": "jed-schmidt",
+      "name": "Jed Schmidt",
+      "description": {
+        "short": "JavaScript developer. Resident web nerd at UNIQLO. Organizer of BrooklynJS.",
+        "full": "<p>Jed is a JavaScript developer and recovering Japanese translator based out of Brooklyn, NYC. When he's not geeking out on the mobile web at UNIQLO, he enjoys running BrooklynJS and singing tight barbershop harmonies.</p>"
+      },
+      "talk": {
+        "title": "API Have A Dream",
+        "description": "<p>As JavaScript continues to eat everything, it seems like the lifespan of any new JavaScript library ends up at about half of the one it replaced. While each of these tools serve to make our lives easer, the churn from switching sometimes makes it hard to tell progress from fashion. In this talk, Jed talks about how the interfaces of these libraries and frameworks are evolving, and how we can design the interfaces to survive the inevitable front-end Singularity.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://jed.is",
+          "label": "jed.is"
+        },
+        "twitter": {
+          "url": "https://twitter.com/jedschmidt",
+          "label": "@jedschmidt"
+        }
+      }
+    },
+    {
+      "id": "julian-cheal",
+      "name": "Julian Cheal",
+      "description": {
+        "short": "Drone Charmer.",
+        "full": "<p>A British Ruby/Rails developer, with a penchant for tweed, fine coffee, and homebrewing. When not working for clients, I help organise fun events around the world that teach people to program flying robots. I also occasionally speak at international conferences on the intersection of programming and robotics.</p>"
+      },
+      "talk": {
+        "title": "Dancing with Robots",
+        "description": "<p>Ever wanted to control your own robots, using just code and your imagination?<br>Did you know you can make a robot fly with only 16 lines of JavaScript?</p><p>With a little Node.js and a variety of hardware controllers we'll see flying robots, and we may even be able to make them&#8230; dance! So let's get coding: drone.doAwesomeStuff();</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://www.juliancheal.co.uk",
+          "label": "juliancheal.co.uk"
+        },
+        "twitter": {
+          "url": "https://twitter.com/juliancheal",
+          "label": "@juliancheal"
+        }
+      }
+    },
+    {
+      "id": "patrick-hamann",
+      "name": "Patrick Hamann",
+      "description": {
+        "short": "Senior client-side engineer at The Guardian.",
+        "full": "<p>Patrick is a senior client-side developer at the <a href=\"http://www.theguardian.com/?view=mobile\">Guardian</a> in London, where amongst other things, he is helping to engineer the next generation of their web platform. When not <a href=\"http://lanyrd.com/profile/patrickhamann/\">speaking</a> or ranting about performance or CSS architecture on <a href=\"http://twitter.com/patrickhamann\">twitter</a> he enjoys spends his spare time discovering new food and craft beer.</p>"
+      },
+      "talk": {
+        "title": "Breaking news at 1000ms",
+        "description": "<p>For a website to feel instant, a perceptible response to user input must be provided within hundreds of milliseconds.</p><p>This perceived speed of your website relies heavily on the browser being able to paint to your user's screen. For this they must construct a \"render tree\" which consists of the DOM and the often forgotten CSSOM. The critical path which the browser takes to gather this information is the only thing standing between your server and the user's screen.</p><p>Using new research and real world examples, Patrick will cover a range of techniques – from the controversial to bleeding edge – the Guardian are using to make their next generation website load as fast as possible, and ultimately breaking the news to the user within 1000ms.</p><p>During the talk you will discover why performance matters, what are the common performance bottlenecks in the browser from networking to painting and learn how to best optimise and monitor each stage of the critical path to create fast, jank free websites.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://www.patrickhamann.com",
+          "label": "patrickhamann.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/patrickhamann",
+          "label": "@patrickhamann"
+        }
+      }
+    },
+    {
+      "id": "mariusz-nowak",
+      "name": "Mariusz Nowak",
+      "description": {
+        "short": "Working on beautiful things. JavaScript programmer.",
+        "full": "<p>BWeb applications full-stack programmer, with JavaScript as a main programming language since 2007. Three years ago Mariusz abandoned ES3 based, legacy engines world, and started exploration of latest standards focusing strictly on development for modern engines.</p><p>Born and raised in Warsaw, Mariusz is currently working as an UNCTAD consultant on Open Web solutions of which long-term goal is reduction of grey market in developing countries. Most of his work is open sourced and can be found on his <a href=\"https://github.com/medikoo\">Github profile</a>.</p>"
+      },
+      "talk": {
+        "title": "Full Stack JavaScript Applications, Reactive Way",
+        "description": "<p>I will expose important details and ideas behind fully reactive stack that clarified through out my journey of working strictly with modern engines (ES5+ world). It'll be about JavaScript architecture that takes full advantage of latest ECMAScript and DOM standards and which is largely composed from environment agnostic modules which puts code share between client and server to next level.</p><p>Part of the talk will be dedicated to presentation of in-memory database engine written in JavaScript, that works on both client and server-side, assures offline synchronization and two-way bindings for view components.</p><p>Last but not least, mentioned stack will be showcased with real world project built for UNCTAD, and <em>\"How come, it's fully functional also in IE6?\"</em> questions will be answered.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://medikoo.com",
+          "label": "medikoo.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/medikoo",
+          "label": "@medikoo"
+        }
+      }
+    },
+    {
+      "id": "garann-means",
+      "name": "Garann Means",
+      "description": {
+        "short": "JavaScript developer, unreliable narrator, friend to all cheeses.",
+        "full": "<p>Garann has been making websites since the early days. She spent time as a full-stack developer writing Java and .NET before refocusing on the front-end and, eventually, JavaScript. In addition to her full-time work, she's an acquisitions scout for A List Apart, and is always looking to meet developers who also share her passion for writing and sharing their knowledge.</p>"
+      },
+      "talk": {
+        "title": "Progressive Enhancement for JS Apps",
+        "description": "<p>When progressive enhancement–offering a basic version of a feature that all clients can use as a default–was introduced as a concept, JavaScript applications seemed as relevant as flying cars. As JS became more powerful, it seemed we'd reach a point where we could forget about PE entirely. For the things we originally used it for, we now have rock-solid libraries and polyfills to provide abstractions that make PE easy. But as JS has advanced, we've started writing things that can't be polyfilled. We know now how to progressively enhance widgets and user interactions. We'll talk about how we progressively enhance entire applications, and why it's potentially more important than ever that we do so.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://garann.com",
+          "label": "garann.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/garannm",
+          "label": "@garannm"
+        }
+      }
+    },
+    {
+      "id": "tero-parviainen",
+      "name": "Tero Parviainen",
+      "description": {
+        "short": "Independent contractor. Writing Build Your Own AngularJS.",
+        "full": "<p>Tero Parviainen is an independent software maker with 12 years of enterprise-grade yak shaving under the belt. During this time he has worn many different hats, ranging from consultant to startup CTO. His weapons of choice are JavaScript, Clojure, Ruby, and Java.</p><p>Tero is the creator and organizer of the Clojure Cup programming competition and author of two books: The self-published \"Build Your Own AngularJS\" and \"Real-time Web Application Development with Vert.x\" from Packt Publishing.</p>"
+      },
+      "talk": {
+        "title": "Build Your Own AngularJS",
+        "description": "<p>AngularJS is a powerful JavaScript framework with a steep learning curve. The inner workings of features like directives, transclusion, data binding, and dependency injection are shrouded in mystery. When you’re trying to get things done, mystery is not helpful.</p><p>This talk is all about demystifying the internals of Angular. We’ll take some of the tricky aspects of Angular and build them from the ground up, live on the spot. In the process we’ll gain a deep understanding of what makes this framework tick.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://teropa.info",
+          "label": "teropa.info"
+        },
+        "twitter": {
+          "url": "https://twitter.com/teropa",
+          "label": "@teropa"
+        }
+      }
+    },
+    {
+      "id": "zeno-rocha",
+      "name": "Zeno Rocha",
+      "description": {
+        "short": "Front-end engineer at Liferay, LLC.",
+        "full": "<p>Zeno Rocha used to work as a software developer at Petrobras (the largest company in Latin America) and Globoesporte.com (the most accessed sports website in Brazil), now he's a front-end engineer at Liferay. Besides that, he's a writer at Smashing Magazine, host at Zone Of Front-Enders podcast, member of the Google Developer Expert program and co-founder of BrazilJS Foundation. With only 23 years-old he's one of the top 30 most active users on GitHub and a reference in Brazil when the subject is front-end development.</p>"
+      },
+      "talk": {
+        "title": "A future called Web Components",
+        "description": "<p>Discover how this new concept formed by five new specifications (Templates, Decorators, Shadow DOM, Custom Elements, HTML Imports) will revolutionize the way we develop and interact on the web.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://zenorocha.com",
+          "label": "zenorocha.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/zenorocha",
+          "label": "@zenorocha"
+        }
+      }
+    },
+    {
+      "id": "max-ogden",
+      "name": "Max Ogden",
+      "description": {
+        "short": "Cat, data and cat data enthusiast.",
+        "full": "<p>Max Ogden is a JavaScript programmer who lives in Oakland, CA, home of the <a href=\"http://nodejs.org\">Node.js</a> project. Some previous projects include <a href=\"http://codeforamerica.org/\">Code for America</a>, <a href=\"http://jsforcats.com/\">JavaScript for Cats</a>, <a href=\"http://tacoconf.com/\">TacoConf</a> and most recently <a href=\"http://voxeljs.com/\">Voxel.js</a>, a WebGL voxel rendering engine.</p>"
+      },
+      "talk": {
+        "title": "Browserify - Using Node In Browsers",
+        "description": "<p>Lots of people think that since npm has 'Node' in the name that it must only be used for server side JS modules. This is completely untrue! npm actually stands for Node Packaged Modules, e.g. modules that Node packages together for you. This talk will cover how to use the node module system in the browser using Browserify and show off lots of cool demos using <a href=\"http://requirebin.com\">http://requirebin.com</a>.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://maxogden.com",
+          "label": "maxogden.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/maxogden",
+          "label": "@maxogden"
+        }
+      }
+    },
+    {
+      "id": "brian-ford",
+      "name": "Brian Ford",
+      "description": {
+        "short": "JavaScript (and Node.js) enthusiast. Working on AngularJS at Google.",
+        "full": "<p>Brian Ford is a software engineer working on the AngularJS core team at Google.</p>"
+      },
+      "talk": {
+        "title": "Zone.js",
+        "description": "Zones are a powerful new way to deal with asynchronous JavaScript in both the browser and node. Learn how zones simplify error handing, profiling, debugging, and more."
+      },
+      "links": {
+        "www": {
+          "url": "http://briantford.com",
+          "label": "briantford.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/briantford",
+          "label": "@briantford"
+        }
+      }
+    },
+    {
+      "id": "tim-messerschmidt",
+      "name": "Tim Messerschmidt",
+      "description": {
+        "short": "Developer Evangelist at PayPal. Living in Berlin and loving Mobile, Web-Apps + Open source.",
+        "full": "<p>As a long time mobile and web developer specializing in Android, Tim channels his knowledge and experience as PayPal's Lead Developer Evangelist in Europe. He is very passionate about startups, and serves as a mentor of Seedcamp, Wayra, Startup Wise Guys & Rockstart. In his spare time, he leads and creates training classes in all sorts of Android related topics, and is the author of the Android chapter of the Mobile Developer's Guide to the Galaxy, as well as numerous articles published in magazines like Web&amp;Mobile Developer. His ongoing work on this topic and having an app in Google's Play Store with more than 300,000 downloads makes him a great resource for mobile related questions.</p>"
+      },
+      "talk": {
+        "title": "Supercharging Node with Kraken",
+        "description": "<p>Scaling Node applications from prototyping stacks to production can be very difficult as there is a big lack of conventions and best practices that work across companies and even communities. In this talk Tim will be showcasing his favourite 4 modules of KrakenJS – a thin convention layer on top of Express – which helped PayPal pushing out Node apps.</p><p>Learn some key findings that PayPal made when working on Node and how we structured the introduction of it into our existing infrastructure. Being more efficient, needing less people working on projects and being way more responsive than classical apps Node and Kraken have become PayPal's favourite stack.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://timmesserschmidt.com",
+          "label": "timmesserschmidt.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/SeraAndroid",
+          "label": "@SeraAndroid"
+        }
+      }
+    },
+    {
+      "id": "martin-ringlein",
+      "name": "Martin Ringlein",
+      "description": {
+        "short": "Mayor of The White House, first Design Manager at Twitter, supporting nvite, MACAW and Canvas.",
+        "full": "<p>An award-winning designer, developer, entrepreneur and angel investor; Martin most recently was at The White House as a President as a Presidential Innovation Fellow. Prior, Martin exited his first start-up through an acquisition deal with Twitter where he joined Twitter as their first Design Manager, with a primary focus on designing the design team. Martin has extensive experience building and managing creative teams within start-ups, in-house and agency cultures. With an academic background in Advertising and Design; Martin brings with him a business-oriented design approach that aligns visual communication strategy with brand, product and user experience objectives. Martin studied Business Management at Columbia Business School and Yale School of Management. Currently, Martin is founder and CEO of nvite.</p><p>As an educator, author, and speaker, Martin has established himself an active, successful and influential member of the design community and industry. Martin’s influence and success ranges from designing and directing major strategic interactive marketing initiatives with organizations large and small such as Apple, Google, Adobe, British Telecom, Mozilla and Oracle. Initiatives including the redesign of Ogilvy, Mashable, NASDAQ; developing the initial mobile strategies for The Washington Post, POLITICO, National Journal, Kiplinger, C-SPAN, PUMA, OPOWER; and even designing the original brand identity for start-ups such as LivingSocial.</p><p>In addition to being a design practitioner, Martin has taught experience design at MICA, Boston University and with General Assembly. You can learn more about Martin on <a href=\"http://marty.com\">his personal website</a>.</p>"
+      },
+      "talk": {
+        "title": "The ROI on Front-End Experimentation",
+        "description": "<p>Based on his work at nclud, Twitter and The White House, Marty will share how early experiments over the past decade have shaped our industry from the first experimentations with CSS for layout, liquid layouts impact on responsive design, to transforming WordPress from a blogging tool into a CMS. The results of experimentatioin have fundamentally shifted how Apple develops products, how Oracle thinks about mobile, how Mashable is run, and how Google is inspired by design.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://marty.com",
+          "label": "marty.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/smarty",
+          "label": "@smarty"
+        }
+      }
+    },
+    {
+      "id": "ana-tudor",
+      "name": "Ana Tudor",
+      "description": {
+        "short": "Plays with maths & code. Passionate about experimenting and learning new things.",
+        "full": "<p>Loves maths, especially geometry. Enjoys playing with code. Passionate about experimenting and learning new things. Fascinated by astrophysics and science in general. Huge fan of technological advance and its applications in all fields. Shows an interest in motor sports, drawing, classic cartoons, rock music, cuddling toys and animals with sharp claws and big teeth. Dreams about owning a real tiger.</p>"
+      },
+      "talk": {
+        "title": "Pure CSS 3D Solids",
+        "description": "<p>&ndash; Now that's cool! Haven't experimented with WebGL really yet!<br>&ndash; Actually, that's pure CSS.</p><p>The above is from an actual conversation I recently had. WebGL is great, but really cool 3D can also be created using nothing but HTML and CSS.</p><p>How? Well, obviously using CSS 3D transforms. Chaining them and applying them on nested elements allows us to create more than the basic cube example everyone is probably familiar with by now. We can recreate regular polyhedra as well as Archimedean, Catalan or Johnson solids.</p><p>We can also make these 3D shapes transform into others, either by breaking them into smaller ones which then recombine into something else or by making their simple polygonal faces morph into more complex ones. We can even use CSS gradients for shading.</p><p>Best thing about this? Preprocessors introduce logic and computation in CSS, keeping these demos extremely customizable while writing little code and all the Maths reduces to a right triangle and a simple equality: x = y/z.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://about.me/thebabydino",
+          "label": "about.me/thebabydino"
+        },
+        "twitter": {
+          "url": "https://twitter.com/thebabydino",
+          "label": "@thebabydino"
+        }
+      }
+    },
+    {
+      "id": "horia-dragomir",
+      "name": "Horia Dragomir",
+      "description": {
+        "short": "UI Developer, Hungry and Foolish.",
+        "full": "<p>UI Developer, Hungry and Foolish. He has worked in the empty spaces between application programming, product design, game development, data analysis, interface optimisation and project management. He likes to spend his evenings wearing users' shoes, taking long walks on the beach.</p>"
+      },
+      "talk": {
+        "title": "The Mobile Development We Leave Behind",
+        "description": "<p>Let me walk you through the influence our past has on us while developing for mobile. Let me walk you through what we are leaving behind for future developers. And let me explain to you how mobile is a lie.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://hdragomir.com/",
+          "label": "hdragomir.com"
+        },
+        "twitter": {
+          "url": "https://twitter.com/hdragomir",
+          "label": "@hdragomir"
+        }
+      }
+    },
+    {
+      "id": "gunnar-bittersmann",
+      "name": "Gunnar Bittersmann",
+      "description": {
+        "short": "Web developer, user advocate, guitar player",
+        "full": "<p>Having programming and UX backgrounds, Gunnar’s passion is where both meet: at the frontend. Building web pages ($whatever first ;-)), he aims at a better understanding between humans and machines. He translates articles on the W3C i18n website, helps organizing the World Usability Day Berlin and struggles not to forget how to play the guitar. And he loves to come back to the place that had been his 2nd hometown for a while: Warsaw.</p>"
+      },
+      "talk": {
+        "title": "Patterns & math with Sass",
+        "description": "<p>From bicolores (Polska!) over crosses to stars and stripes – using flags as leitmotif we’ll build patterns with a single HTML element and CSS gradients. As much as about the geometrical patterns it’s about the patterns in the code. And we’ll calculate square roots like the ancient Babylonians – in Sass. A short trip into geometry. Bring your rulers and compasses!</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://bittersmann.de/",
+          "label": "bittersmann.de"
+        },
+        "twitter": {
+          "url": "https://twitter.com/g16n",
+          "label": "@g16n"
+        }
+      }
+    },
+    {
+      "id": "rachel-andrew",
+      "name": "Rachel Andrew",
+      "description": {
+        "short": "Web developer, writer, speaker and one half of edgeofmyseat.com",
+        "full": "<p>Rachel Andrew is a web developer, writer, speaker and one half of <a href=\"http://edgeofmyseat.com\">edgeofmyseat.com</a> - the company behind the CMS Perch. When not working on her own product, Rachel likes to help other people transition from consultancy and client services to profitable product businesses - without needing to seek investment or risk everything by “doing a startup”.</p>"
+      },
+      "talk": {
+        "title": "We're Not \"Doing a Startup\"",
+        "description": "<p>You would love to launch your own product but you have a nice life, a family, a mortgage and don’t want to buy into putting it all on the line chasing some startup dream. This presentation is about the practical steps developers and designers can take to get from idea to launch – no sleeping in the office required.</p>"
+      },
+      "links": {
+        "www": {
+          "url": "http://www.rachelandrew.co.uk/",
+          "label": "rachelandrew.co.uk"
+        },
+        "twitter": {
+          "url": "https://twitter.com/rachelandrew",
+          "label": "@rachelandrew"
+        }
+      }
+    },
+    {
+      "id": "lightning-1",
+      "lightning": true,
+      "talks": [
+        {
+          "name": "Andrey Mima",
+          "title": "Building Analytics Out of window.onerror",
+          "description": "<p>How hard can it be to build an analytics engine in 2 years, out of just a single event handler? It appears that error debugging in JS is full of challenges: you almost need to build Google Analytics to barely get enough data to determine which errors are most important. Follow the adventures we faced while building JavaScript error tracking and learn tricks.</p>",
+          "link": {
+            "title": "Qbaka",
+            "url": "https://qbaka.com/"
+          }
+        },
+        {
+          "name": "Andrzej Mazur",
+          "title": "Playing around with the Gamepad API",
+          "description": "<p>The Gamepad API gives you the ability to deliver console-like experience for the desktop users. You can create JavaScript applications and HTML5 games that can be controlled using the gamepad - how cool is that? Every device with a browser can be turned into a game console and with the Gamepad API support we can build HTML5 games like never before. It's easy to implement, do not require any plugins to run in the browser and is simple as just plugging in your device and playing the game right away. Now is the best time to learn how to use it in your next HTML5 game!</p>",
+          "link": {
+            "title": "@end3r",
+            "url": "https://twitter.com/end3r"
+          }
+        },
+        {
+          "name": "Vadim Makeev",
+          "title": "BEM is okay",
+          "description": "<p>Module approach for building UI with BEM and independent blocks. History, practical and architecture value, alternative points of view and compatibility with web standards and common sense.</p>",
+          "link": {
+            "title": "@pepelsbey_",
+            "url": "https://twitter.com/pepelsbey_"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightning-2",
+      "lightning": true,
+      "talks": [
+        {
+          "name": "Michał Budzyński",
+          "title": "Keyboard? Mouse? C'mon! It's 2014!",
+          "description": "<p>The border between web, mobile & console games is getting thinner & thinner. With new WebAPIs, your browser is a platform almost as powerful as your operating system. So fasten your seatbelt and prepare for a journey into Web Gaming you never experienced before.</p>",
+          "link": {
+            "title": "@michalbe",
+            "url": "https://twitter.com/michalbe"
+          }
+        },
+        {
+          "name": "Nikos Zinas",
+          "title": "Web components, next generation markup",
+          "description": "<p>A quick introduction to web components, with a humorous approach. Goal is to get people familiar with what we mean when we talk about web components, and how they can help their development workflow.</p>",
+          "link": {
+            "title": "@nzinas",
+            "url": "https://twitter.com/nzinas"
+          }
+        },
+        {
+          "name": "Zbigniew Tenerowicz",
+          "title": "Hackers - got to keep them at bay",
+          "description": "<p>There's plenty of threats to your web application interface out there. I don't want to scare you... Well, I do. I will show you how to make your web UI more secure thanks to some technologies available in modern-day browsers.</p><p>By attending one talk you can prevent your users from getting their data or accounts stolen! Must-see for every JavaScript developer.</p>",
+          "link": {
+            "title": "@naugtur",
+            "url": "https://twitter.com/naugtur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightning-3",
+      "lightning": true,
+      "talks": [
+        {
+          "name": "Patryk Falba and Iwona Buzek",
+          "title": "Dive into the 3D browser with Three.js",
+          "description": "<p>Creating 3D graphics and animations in the browser is easier than ever before, thanks to Three.js, a lightweight Javascript library for 3D graphics. From simple cube shapes, to realistic world figures, we'll show you the basic features of this exciting engine.</p>",
+          "link": {
+            "title": "Agora",
+            "url": "http://www.agora.pl/agora/0,0.html"
+          }
+        },
+        {
+          "name": "Berni Kobos",
+          "title": "UI testing with JavaScript done right",
+          "description": "<p>Web and mobile UI testing has never been so simple. All the tools that you need to create a solid maintainable apps are at your fingertips. Big and small companies are already using it heavily to provide their users the best possible experience. The new kid on the block is the Appium project which is a mobile automation tool written in Node. It opens the gates to serious mobile testing automation for which many developers and companies were waiting for. Let me tell you how Appium revolutionized mobile automation world and where the project is heading.</p>",
+          "link": {
+            "title": "@bkobos",
+            "url": "https://twitter.com/bkobos"
+          }
+        },
+        {
+          "name": "Szymon Nowak",
+          "title": "sharedrop.io - Open Source OS X AirDrop Clone Powered by the Magic of WebRTC",
+          "description": "<p>ShareDrop is a free, open source app, that allows you to easily and securely share files directly between devices in the same local network, without having to upload them to a server first. This talk will cover the app and the technologies behind it: an OS X AirDrop clone powered by WebRTC, that uses Firebase for presence management and WebRTC signaling and is written in EmberJS!</p>",
+          "link": {
+            "title": "@szimek",
+            "url": "https://twitter.com/szimek"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightning-4",
+      "lightning": true,
+      "talks": [
+        {
+          "name": "Varya Stepanova",
+          "title": "Building a mobile app with JavaScript on Steroids",
+          "description": "<p>Creating a mobile app with native performance in HTML5/JavaScript. I will use the Steroids awesome toolkit and framework which shows native UI of the popular mobile platforms with a couple of lines in JavaScript.</p>",
+          "link": {
+            "title": "@varya_en",
+            "url": "https://twitter.com/varya_en"
+          }
+        },
+        {
+          "name": "Wojtek Urbański",
+          "title": "Browsers that aren't <=8",
+          "description": "<p>With Windows XP killed by Microsoft in April, IE8 has less and less market share every week. That's why companies are deciding to drop the support for this ancient browser. In his presentation Wojtek will try to answer the question of viability of supporting IE8 in your projects. He will also tell you about things that you can start/stop using today if you drop the support. You will be amazed of what you can do in JavaScript right now - without fancy compilers, shims or hacks.</p>",
+          "link": {
+            "title": "@wojtiku",
+            "url": "https://twitter.com/wojtiku"
+          }
+        },
+        {
+          "name": "Igor Zalutsky",
+          "title": "Debugging JavaScript with Chrome",
+          "description": "<p>A quick wrap-up of tools provided by Google Chrome for debugging JavaScript code. Mostly covers Console and Command Line APIs, from ubiquitous logging to a couple of undocumented, but very handy methods.</p>",
+          "link": {
+            "title": "@IgorZIJ",
+            "url": "https://twitter.com/IgorZIJ"
+          }
+        }
+      ]
+    }
+  ]
+}

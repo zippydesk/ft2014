@@ -1,0 +1,339 @@
+{
+  "schedule": {
+    "day1": [
+      {
+        "id": "rab",
+        "time": {
+          "start": "8:00",
+          "end": "9:45"
+        }
+      },
+      {
+        "id": "julian-cheal",
+        "time": {
+          "start": "9:45",
+          "end": "10:20"
+        }
+      },
+      {
+        "id": "tero-parviainen",
+        "time": {
+          "start": "10:20",
+          "end": "10:55"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "10:55",
+          "end": "11:25"
+        }
+      },
+      {
+        "id": "jed-schmidt",
+        "time": {
+          "start": "11:25",
+          "end": "12:00"
+        }
+      },
+      {
+        "id": "tim-messerschmidt",
+        "time": {
+          "start": "12:00",
+          "end": "12:35"
+        }
+      },
+      {
+        "id": "lunch",
+        "time": {
+          "start": "12:35",
+          "end": "14:10"
+        }
+      },
+      {
+        "id": "rachel-andrew",
+        "time": {
+          "start": "14:10",
+          "end": "14:45"
+        }
+      },
+      {
+        "id": "zeno-rocha",
+        "time": {
+          "start": "14:45",
+          "end": "15:20"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "15:20",
+          "end": "15:50"
+        }
+      },
+      {
+        "id": "lightning-1",
+        "time": {
+          "start": "15:50",
+          "end": "16:15"
+        },
+        "speakers": [
+          "Qbaka",
+          "Andrzej Mazur",
+          "Vadim Makeev"
+        ]
+      },
+      {
+        "id": "lightning-2",
+        "time": {
+          "start": "16:15",
+          "end": "16:40"
+        },
+        "speakers": [
+          "Michał Budzyński",
+          "Nikos Zinas",
+          "Zbigniew Tenerowicz"
+        ]
+      },
+      {
+        "id": "lightning-3",
+        "time": {
+          "start": "16:40",
+          "end": "17:05"
+        },
+        "speakers": [
+          "Agora",
+          "Berni Kobos",
+          "Szymon Nowak"
+        ]
+      },
+      {
+        "id": "lightning-4",
+        "time": {
+          "start": "17:05",
+          "end": "17:30"
+        },
+        "speakers": [
+          "Varya Stepanova",
+          "Wojtek Urbański",
+          "Igor Zalutsky"
+        ]
+      },
+      {
+        "id": "eod",
+        "time": {
+          "start": "17:30",
+          "end": "18:00"
+        }
+      }
+    ],
+    "day2": [
+      {
+        "id": "rab",
+        "time": {
+          "start": "8:00",
+          "end": "9:30"
+        }
+      },
+      {
+        "id": "lea-verou",
+        "time": {
+          "start": "9:30",
+          "end": "10:15"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "10:15",
+          "end": "10:30"
+        }
+      },
+      {
+        "id": "brian-ford",
+        "time": {
+          "start": "10:30",
+          "end": "11:05"
+        }
+      },
+      {
+        "id": "kyle-simpson",
+        "time": {
+          "start": "11:05",
+          "end": "11:40"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "11:40",
+          "end": "12:10"
+        }
+      },
+      {
+        "id": "sara-vieira",
+        "time": {
+          "start": "12:10",
+          "end": "12:45"
+        }
+      },
+      {
+        "id": "martin-ringlein",
+        "time": {
+          "start": "12:45",
+          "end": "13:20"
+        }
+      },
+      {
+        "id": "lunch",
+        "time": {
+          "start": "13:20",
+          "end": "14:50"
+        }
+      },
+      {
+        "id": "alicia-liu",
+        "time": {
+          "start": "14:50",
+          "end": "15:25"
+        }
+      },
+      {
+        "id": "patrick-hamann",
+        "time": {
+          "start": "15:25",
+          "end": "16:00"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "16:00",
+          "end": "16:30"
+        }
+      },
+      {
+        "id": "panel",
+        "time": {
+          "start": "16:30",
+          "end": "17:30"
+        }
+      },
+      {
+        "id": "eod",
+        "time": {
+          "start": "17:35",
+          "end": "17:40"
+        }
+      },
+      {
+        "id": "party",
+        "time": {
+          "start": "19:30",
+          "end": "19:30"
+        },
+        "url": "http://bit.ly/ftparty"
+      }
+    ],
+    "day3": [
+      {
+        "id": "rab",
+        "time": {
+          "start": "8:30",
+          "end": "10:00"
+        }
+      },
+      {
+        "id": "horia-dragomir",
+        "time": {
+          "start": "10:00",
+          "end": "10:35"
+        }
+      },
+      {
+        "id": "ana-tudor",
+        "time": {
+          "start": "10:35",
+          "end": "11:10"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "11:10",
+          "end": "11:40"
+        }
+      },
+      {
+        "id": "mary-rose-cook",
+        "time": {
+          "start": "11:40",
+          "end": "12:15"
+        }
+      },
+      {
+        "id": "mariusz-nowak",
+        "time": {
+          "start": "12:15",
+          "end": "12:50"
+        }
+      },
+      {
+        "id": "lunch",
+        "time": {
+          "start": "12:50",
+          "end": "14:20"
+        }
+      },
+      {
+        "id": "kornel-lesinski",
+        "time": {
+          "start": "14:20",
+          "end": "14:55"
+        }
+      },
+      {
+        "id": "max-ogden",
+        "time": {
+          "start": "14:55",
+          "end": "15:30"
+        }
+      },
+      {
+        "id": "coffee",
+        "time": {
+          "start": "15:30",
+          "end": "16:00"
+        }
+      },
+      {
+        "id": "garann-means",
+        "time": {
+          "start": "16:00",
+          "end": "16:35"
+        }
+      },
+      {
+        "id": "gunnar-bittersmann",
+        "time": {
+          "start": "16:35",
+          "end": "17:10"
+        }
+      },
+      {
+        "id": "close",
+        "time": {
+          "start": "17:10",
+          "end": "17:30"
+        }
+      },
+      {
+        "id": "eoc",
+        "time": {
+          "start": "17:30",
+          "end": "18:00"
+        }
+      }
+    ]
+  }
+}
